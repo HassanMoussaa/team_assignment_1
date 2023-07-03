@@ -12,4 +12,6 @@ img {
   width: 10px;
   height: 10px;
 }
-
+button {
+  padding-top: 100spx;
+}
